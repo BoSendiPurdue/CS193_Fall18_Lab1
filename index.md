@@ -1,4 +1,4 @@
-#Bo Sendi's First CS193 Lab!
+# Bo Sendi's First CS193 Lab!
 - CS193 is cool
 - I have some experience with GitHub from my school's robotics team
 - This should be a fun class
