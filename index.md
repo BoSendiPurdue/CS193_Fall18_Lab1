@@ -2,6 +2,7 @@
 - CS193 is cool
 - I have some experience with GitHub from my school's robotics team
 - This should be a fun class
+- We'll see whether GitHub likes letting me make changes to things :)
 
 ## Welcome to GitHub Pages
 
