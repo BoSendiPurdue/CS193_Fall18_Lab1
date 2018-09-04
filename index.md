@@ -1,8 +1,19 @@
+#Bo Sendi's First CS193 Lab!
+- CS193 is cool
+- I have some experience with GitHub from my school's robotics team
+- This should be a fun class
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Sample Text
+**This is some text I personally added for the first lab of CS193!**
+_Here's italic text!_
+`some fancy code();`
+
 
 ### Markdown
 
